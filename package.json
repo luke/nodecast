@@ -24,12 +24,12 @@
     "node-ssdp": "^0.2.1",
     "superagent": "^0.17.0",
     "ws": "^0.4.31",
-    "xml2json": "^0.4.0",
     "optimist": "^0.6.1",
     "require-dir": "^0.1.0",
     "async": "^0.6.1",
     "url-join": "0.0.1",
-    "to-array": "^0.1.4"
+    "to-array": "^0.1.4",
+    "xml2js": "*"
   },
   "devDependencies": {
     "mocha": "*",
